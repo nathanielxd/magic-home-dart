@@ -1,8 +1,7 @@
-import 'package:magic_home_api/magic_home_api.dart';
+import 'package:magic_home/magic_home.dart';
 
 main() {
 
-  Light.connect('192.168.1.4').then((light) {
-    light.turnOn();
-  });
+  
+
 }

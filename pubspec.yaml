@@ -1,8 +1,8 @@
-name: magic_home_api
-description: A starting point for Dart libraries or applications.
-# version: 1.0.0
-# homepage: https://www.example.com
-# author: nathanielnaty <dragusinnathaniel@gmail.com>
+name: magic_home
+description: A library that imports functionality from the Magic Home app, allowing control of smart lights.
+version: 0.8.0
+homepage: https://github.com/nathanielxd/
+author: nathanielxd <dragusinnathaniel@gmail.com>
 
 environment:
   sdk: '>=2.2.0 <3.0.0'

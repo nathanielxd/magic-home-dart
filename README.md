@@ -1,22 +1,20 @@
-A library for Dart developers.
+# Magic Home
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+A library that imports functionality from the Magic Home app, allowing control of smart lights
 
-## Usage
+## Installation
 
-A simple usage example:
+TODO
+
+## Example
 
 ```dart
-import 'package:light_controller/light_controller.dart';
+import 'package:magic_home/magic_home.dart';
 
 main() {
-  var awesome = new Awesome();
+
+  Light.discover().then((lights){
+    lights[0].setColor(255, 0, 128);
+  });
 }
 ```
-
-## Features and bugs
-
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: http://example.com/issues/replaceme
