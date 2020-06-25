@@ -1,4 +1,4 @@
-# Magic Home [![Pub](https://img.shields.io/badge/Pub-0.9.0-brightgreen.svg)](https://pub.dev/packages/magic_home)
+# Magic Home [![Pub](https://img.shields.io/badge/Pub-1.0.0-brightgreen.svg)](https://pub.dev/packages/magic_home)
 
 DART library that allows you to control Magic Home enabled lights connected to the same LAN.
 With this, you can control your bulbs and led strips that work with [Magic Home App](https://play.google.com/store/apps/details?id=com.Zengge.LEDWifiMagicHome).
