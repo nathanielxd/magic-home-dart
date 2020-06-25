@@ -2,7 +2,6 @@ name: magic_home
 description: A library that imports functionality from the Magic Home app, allowing control of smart lights.
 version: 1.0.0
 homepage: https://github.com/nathanielxd/
-author: nathanielxd <dragusinnathaniel@gmail.com>
 
 environment:
   sdk: '>=2.2.0 <3.0.0'
