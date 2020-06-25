@@ -1,4 +1,4 @@
-# Magic Home [![Pub](https://img.shields.io/badge/Pub-0.9.0-brightgreen.svg)](https://pub.dev/packages/magic_home)
+# Magic Home [![Pub](https://img.shields.io/badge/Pub-1.0.0-brightgreen.svg)](https://pub.dev/packages/magic_home)
 
 A library that imports functionality from the Magic Home app, allowing control of smart lights
 
@@ -7,7 +7,7 @@ A library that imports functionality from the Magic Home app, allowing control o
 Add this to your pubspec.yaml file:
 ```
 dependencies:
-  magic_home: ^0.9.0
+  magic_home: ^1.0.0
 ```
 
 
